@@ -1,9 +1,9 @@
 # Networks-Assignments
-## how to Run:
+## How to Run:
   open the cmd and cd to the excutable folder
-   ## generator<"input message file path" | verifier
-   ## or
-   ## generator<"input message file path" | alter [bit number] | verifier
+   ### generator<"input message file path" | verifier
+## or
+   ### generator<"input message file path" | alter [bit number] | verifier
 
 ## output :
    "message is [not]correct" in the cmd
